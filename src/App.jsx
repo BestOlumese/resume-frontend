@@ -5,7 +5,7 @@ import LandingPage from "./pages/LandingPage";
 import Login from "./pages/Auth/Login";
 import Signup from "./pages/Auth/SignUp";
 import Dashboard from "./pages/Home/Dashboard";
-import EditResume from "./pages/ResumeUpdate/editResume";
+import EditResume from "./pages/ResumeUpdate/EditResume";
 import UserProvider from "./context/userContext";
 
 const App = () => {

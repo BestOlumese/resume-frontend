@@ -2,7 +2,7 @@ import React, { useContext, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import HERO_BG from "../assets/herobg.png";
 import Login from "./Auth/Login";
-import Signup from "./Auth/Signup";
+import Signup from "./Auth/SignUp";
 import Modal from "../components/Modal";
 import { UserContext } from "../context/userContext";
 import ProfileInfoCard from "../components/Cards/ProfileInfoCard";
